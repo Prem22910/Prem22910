@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prem(@Prem22910).
 - 👀 I’m interested in Web Frontend Development.
-- 🌱 I’m currently learning Javascript.
+- 🌱 I’m currently learning Node.js.
 - 💞️ I’m looking to collaborate on Web Development projects that can help me learn more.
 - 📫 How to reach me - premmishra.mail@gmail.com
 
